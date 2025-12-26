@@ -1,0 +1,17 @@
+{
+  "name": "Agenda Preparate México",
+  "short_name": "Preparate MX",
+  "description": "Gestión de Salones - PreparARTe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icons/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
