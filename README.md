@@ -1,4 +1,4 @@
-# 📍 Agenda Preparate México
+# 📍 Agenda Prepararte México
 
 Una aplicación web moderna y profesional para la gestión integral de salones de eventos en las 32 entidades federativas mexicanas.
 
@@ -229,4 +229,4 @@ Para reportar problemas o sugerencias, favor de contactar al equipo de desarroll
 
 ## 📄 Licencia
 
-© 2024 Agenda Preparate México. Todos los derechos reservados.
+© 2025 Agenda Prepararte México. Todos los derechos reservados.
